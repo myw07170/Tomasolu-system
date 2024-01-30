@@ -1,0 +1,6 @@
+ld F6, 34
+ld F2, 45
+ld F10, 5
+addd F2, F1, F6
+st F10, 1
+st F2, 1

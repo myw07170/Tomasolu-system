@@ -1,0 +1,36 @@
+* {
+    font-family: "Monaco", "Microsoft YaHei UI", "Consolas", "serif";
+    font-size: 1.01em;
+}
+
+body {
+    padding-top: 80px;
+}
+
+.te-view-interface-div {
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+
+.te-view-display-instruction-list {
+    overflow-y: auto;
+}
+
+.flex-wrap {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+}
+
+.align-center {
+    margin: auto;
+}
+
+.navbar-btn {
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+}
+
+alert-banning {
+    position: absolute;
+}
